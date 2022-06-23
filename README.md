@@ -1,5 +1,7 @@
 # OPERA Calval Database
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 This repository contains tools needed to interface with the OPERA calval database as well as example notebooks demonstrating database functionality
 
 # Repository Organization
