@@ -15,7 +15,7 @@
 #-------------------------------------------------------------------------------
 #The input and output files stored in sub-directories of
 #-------------------------------------------------------------------------------
-database/upload/
-database/download/
-database/*.geojson
-database/*.csv
+DSWx/examples/upload/
+DSWx/examples/download/
+DSWx/examples/*.geojson
+DSWx/examples/*.csv
