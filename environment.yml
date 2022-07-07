@@ -1,0 +1,13 @@
+name: calval_database
+channels:
+ - conda-forge
+ - anaconda
+ - defaults
+dependencies:
+ - python>=3.9
+ - jupyter
+ - ipykernel
+ - shapely
+ - dateparser
+ - geopandas
+ - boto3
