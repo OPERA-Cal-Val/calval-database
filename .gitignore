@@ -17,5 +17,8 @@
 #-------------------------------------------------------------------------------
 DSWx/examples/upload/
 DSWx/examples/download/
+DSWx/dev/download/
 DSWx/examples/*.geojson
 DSWx/examples/*.csv
+DSWx/dev/*.geojson
+DSWx/dev/*.csv
