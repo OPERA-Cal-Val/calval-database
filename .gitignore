@@ -17,8 +17,11 @@
 #-------------------------------------------------------------------------------
 DSWx/examples/upload/
 DSWx/examples/download/
+DSWx/examples/download/prototype
 DSWx/dev/downloads/
 DSWx/examples/*.geojson
 DSWx/examples/*.csv
 DSWx/dev/*.geojson
 DSWx/dev/*.csv
+DSWx/dev/*.tif
+
