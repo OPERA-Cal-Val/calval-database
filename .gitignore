@@ -16,8 +16,8 @@
 #The input and output files stored in sub-directories of
 #-------------------------------------------------------------------------------
 DSWx/examples/upload/
-DSWx/examples/download/
-DSWx/examples/download/prototype
+DSWx/examples/downloads/
+DSWx/examples/prototype/
 DSWx/dev/downloads/
 DSWx/examples/*.geojson
 DSWx/examples/*.csv
