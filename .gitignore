@@ -19,6 +19,7 @@ DSWx/examples/upload/
 DSWx/examples/downloads/
 DSWx/examples/prototype/
 DSWx/dev/downloads/
+DSWx/dev/prototype/
 DSWx/examples/*.geojson
 DSWx/examples/*.csv
 DSWx/dev/*.geojson
