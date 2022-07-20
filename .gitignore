@@ -15,6 +15,7 @@
 #-------------------------------------------------------------------------------
 #The input and output files stored in sub-directories of
 #-------------------------------------------------------------------------------
+.DS_Store
 DSWx/examples/upload/
 DSWx/examples/downloads/
 DSWx/examples/prototype/
