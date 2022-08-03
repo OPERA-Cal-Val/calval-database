@@ -26,4 +26,5 @@ DSWx/examples/*.csv
 DSWx/dev/*.geojson
 DSWx/dev/*.csv
 DSWx/dev/*.tif
+DSWx/downloads/
 
